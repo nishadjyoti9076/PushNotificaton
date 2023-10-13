@@ -12,3 +12,7 @@ then start coding for notification.
 and in the last sent notification from cloud messaging and you will get the notification
 
 if you will click on the notification, you will be redirect on app.
+
+
+
+
